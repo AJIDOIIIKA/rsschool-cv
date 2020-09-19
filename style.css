@@ -16,6 +16,7 @@ p {
 }
 .inner__cv {
     position: fixed;
+    overflow: auto;
     top: 0;
     left: 0;
     width: 100%;
